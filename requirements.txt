@@ -2,7 +2,7 @@ gunicorn
 flask
 numpy
 #torch==1.1.0
-https://download.pytorch.org/whl/cpu/torch-1.1.0-cp37-cp37m-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torch-1.0.1.post2-cp36-cp36m-linux_x86_64.whl
 torchvision==0.3.0
 fastai==1.0.52
 jupyter

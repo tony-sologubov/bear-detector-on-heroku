@@ -1,0 +1,7 @@
+gunicorn
+flask
+numpy
+torch==1.1.0
+torchvision==0.3.0
+fastai==1.0.52
+jupyter

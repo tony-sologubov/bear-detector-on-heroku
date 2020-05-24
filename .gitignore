@@ -1,0 +1,3 @@
+resources/tmp/*
+venv
+__pycache__

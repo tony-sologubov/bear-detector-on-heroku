@@ -1,3 +1,5 @@
+!/resources
+!/resources/tmp
 /resources/tmp/*
 /venv
 /__pycache__

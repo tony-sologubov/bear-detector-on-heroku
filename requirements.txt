@@ -3,7 +3,6 @@ flask
 numpy
 #torch==1.1.0
 https://download.pytorch.org/whl/cpu/torch-1.1.0-cp36-cp36m-linux_x86_64.whl
-torchvision==0.3.0
-cudatoolkit==9.0
+torchvision==0.2.2
 fastai==1.0.52
 jupyter

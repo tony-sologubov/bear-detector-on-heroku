@@ -1,3 +1,3 @@
-resources/tmp/*
-venv
-__pycache__
+/resources/tmp/*
+/venv
+/__pycache__
